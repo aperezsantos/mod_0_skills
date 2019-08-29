@@ -1,4 +1,4 @@
-Class: Room
+Class: Kitchen
 
 Attributes:
 type: kitchen
