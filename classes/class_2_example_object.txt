@@ -1,0 +1,16 @@
+Class: Room
+
+Attributes:
+type: kitchen
+openWindow: false
+windowAmount: 2
+size: 80
+tableAmount: 5
+lamp: false
+staff: 7
+
+Methods:
+noShow: 7 - 1 = 6
+breakWindow: true
+remodel: 80 + 20 = 100
+repurposeRoom: "Food court"
