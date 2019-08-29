@@ -1,0 +1,15 @@
+Floor lamp
+
+Attributes:
+type: "floor lamp"
+amount: 8
+size: 3
+lightOn: true
+lightBulb: true
+placement: ["dining room," "host table", "patio"]
+
+Methods:
+breakLamp: 8 - 1 = 7
+disconnectCord: false
+replaceBulb: false, true
+moveArea: ["dining room", "host table", "patio", "bathrooms"]
