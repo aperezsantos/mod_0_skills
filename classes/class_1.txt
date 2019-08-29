@@ -1,5 +1,3 @@
-Restaurant Class
-
 Class: Lamp
 
 Attributes:
