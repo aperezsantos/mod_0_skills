@@ -1,0 +1,17 @@
+Restaurant Class
+
+Class: Lamp
+
+Attributes:
+type (string)
+amount (integer)
+size (integer)
+lightOn (boolean)
+lightBulb (boolean)
+placement (array)
+
+Methods:
+breakLamp (changes amount attribute)
+disconnectCord (changes lightOn attribute)
+replaceBulb (changes lightBulb to false, then back to true)
+moveArea (changes placement to add/delete area where lamp is placed)
