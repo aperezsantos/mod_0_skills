@@ -1,0 +1,16 @@
+Class: Room
+
+Attributes:
+type (string)
+openWindow (boolean)
+windowAmount (integer)
+size (integer)
+tableAmount (integer)
+lamp (boolean)
+staff (array)
+
+Methods:
+nowShow (changes staff array)
+closeWindow (changes openWindow to false)
+remodel (changes size integer)
+repurposeRoom (changes type string)
