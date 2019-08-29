@@ -1,0 +1,59 @@
+How to Become a Turing Student
+1 Visit Turing.io website
+  1.1 Google Turing
+    1.1.1 Grab your laptop
+    1.1.2 Turn on computer
+        1.1.2.1 Open computer
+        1.1.2.2 Press power button
+        1.1.2.3 Enter login information
+    1.1.3 Open your web browser
+        1.1.3.1 Drag mouse to Chrome
+        1.1.3.2 Click on Chrome
+    1.1.4 Google Search
+        1.1.4.1 On the search bar under Google, type: Turing School of Software and Design
+        1.1.4.1 Click on Turing website
+    1.1.5 Read through information
+        1.1.5.1 Scroll down to Admissions
+        1.1.5.2 Scroll down to Application
+        1.1.5.3 Scroll down to Interview
+        1.1.5.4 Scroll down to Cohort Selection
+        1.1.5.5 Scroll down to Tuition & Financing
+        1.1.5.6 Scroll down to Contact
+2 Contact Turing
+    2.1 E-mail Erin Williams
+      2.1.1 Open your e-mail
+      2.1.2 Create a new e-mail to erin@turing.io
+      2.1.3 Explain that you want to learn more about Turing
+      2.1.4 Set-up a tour of Turing with Erin
+      2.1.5 Accept calendar invitation for tour from Erin
+      2.1.5 Attend tour
+          2.1.5.1 Google Turing address
+          2.1.5.2 Open Maps app in your phone and lookup directions to Turing
+          2.1.5.3 Get in car and drive to location
+3 Apply to Turing
+    3.1 After visit to Turing, wait for follow-up e-mail with links to application
+    3.2 Fill out Application
+      3.2.1 Copy each link given in follow-up e-mails and visit pages
+      3.2.2 Complete enrollment assessment
+    3.3 Setup interview with Daniel
+    3.4 Attend Interview
+4 Apply for financial assistance
+    4.1 Apply for a loan
+      4.1.1 Visit each loan website mentioned in Turing website
+      4.1.2 Call and talk to a representative of each website
+      4.1.3 Check your credit scores
+          5.1.3.1 Google how to do this for free
+      4.1.4 Apply for loan amount that is needed
+    4.2 Use GI Bill if applicable
+    4.3 Apply for Diversity Scholarship
+      4.3.1 Follow link of Diversity Scholarship in follow-up emails from Turing
+5 Attend Mod 0 Sessions
+    5.1 Attend Mod 0 Sessions
+      5.1.1 Download Zoom onto computer
+      5.1.2 Attend Zoom lecture about Zoom
+      5.1.3 Setup Slack on your computer
+      5.1.4 Open Slack and click on zoom session for each mod 0 session
+    5.2 Complete homework readings, tasks, and assignments
+      5.2.1 Setup a GitHub account
+      5.2.2 Follow through computer setup
+    5.3 Complete Mod 0 Assessment
